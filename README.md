@@ -1,2 +1,2 @@
 # chatbot
-chatbot using tensorflow.
+chatbot using keras.
